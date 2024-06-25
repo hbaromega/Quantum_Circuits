@@ -1,2 +1,2 @@
-# Quantum_Circuits
-Qiskit Tutorial Codes 
+# Quantum Circuits 101
+Basic Qiskit Tutorial Codes 
